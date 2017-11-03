@@ -51,7 +51,7 @@ except ImportError:
 
 MINIMUM_VERSION = "0.6.28"
 DEFAULT_VERSION = "0.6.45"
-DEFAULT_URL = "http://pypi.python.org/packages/source/d/distribute/"
+DEFAULT_URL = "https://pypi.python.org/packages/source/d/distribute/"
 SETUPTOOLS_FAKED_VERSION = "0.6c11"
 
 SETUPTOOLS_PKG_INFO = """\
